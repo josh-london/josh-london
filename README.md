@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @josh-london
-- 👀 I’m interested in Startups
-- 🌱 I’m currently learning... Startups
-- 💞️ I’m looking to collaborate on... Startups
-- 📫 How to reach me... josh@hourlyapp.co
+- 👀 I’m interested in Tech & Startups
 
 <!---
 josh-london/josh-london is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
